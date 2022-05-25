@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/arcade_42/BuildConfig.java
+ com.example.arcade_42.BuildConfig
+com/example/arcade_42/MainActivity.java
+ com.example.arcade_42.MainActivity
